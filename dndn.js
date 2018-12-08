@@ -53,4 +53,4 @@ joined info-selfie
 **`) 
 }).catch(console.error)
 })
-client.login("NTE5NjM1MzM4ODQzNjUyMDk2.Dux0Bg.dYteNS6wlaYiY_bhHjatyftsF4A");
+client.login("NTIwNzc4Njc1OTI3NTE1MTM4.Duy0-g.EJVFGPDncebrkfMfyirxYl3mNkM");
